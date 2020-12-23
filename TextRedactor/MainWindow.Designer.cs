@@ -57,7 +57,8 @@
             this.richTextBox1.Name = "richTextBox1";
             this.richTextBox1.Size = new System.Drawing.Size(776, 369);
             this.richTextBox1.TabIndex = 1;
-            this.richTextBox1.Text = "";
+            this.richTextBox1.Text = "******************************************\n*Welcome to the simple TextRedactor!!*" +
+    "\n******************************************";
             // 
             // saveButton
             // 
@@ -77,6 +78,7 @@
             this.aboutButton.TabIndex = 3;
             this.aboutButton.Text = "About";
             this.aboutButton.UseVisualStyleBackColor = true;
+            this.aboutButton.Click += new System.EventHandler(this.aboutButton_Click);
             // 
             // optionsButton
             // 
@@ -88,7 +90,7 @@
             this.optionsButton.UseVisualStyleBackColor = true;
             this.optionsButton.Click += new System.EventHandler(this.optionsButton_Click);
             // 
-            // Form1
+            // MainWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -98,8 +100,9 @@
             this.Controls.Add(this.saveButton);
             this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.openButton);
-            this.Name = "Form1";
+            this.Name = "MainWindow";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.MainWindow_Load);
             this.ResumeLayout(false);
 
         }

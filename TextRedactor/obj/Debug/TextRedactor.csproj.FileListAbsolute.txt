@@ -13,10 +13,11 @@ D:\GitHubRepositories\TextRedactor\TextRedactor\bin\Debug\TextRedactor.exe.confi
 D:\GitHubRepositories\TextRedactor\TextRedactor\bin\Debug\TextRedactor.exe
 D:\GitHubRepositories\TextRedactor\TextRedactor\bin\Debug\TextRedactor.pdb
 D:\GitHubRepositories\TextRedactor\TextRedactor\obj\Debug\TextRedactor.csprojAssemblyReference.cache
-D:\GitHubRepositories\TextRedactor\TextRedactor\obj\Debug\TextRedactor.Form2.resources
 D:\GitHubRepositories\TextRedactor\TextRedactor\obj\Debug\TextRedactor.Properties.Resources.resources
 D:\GitHubRepositories\TextRedactor\TextRedactor\obj\Debug\TextRedactor.csproj.GenerateResource.cache
 D:\GitHubRepositories\TextRedactor\TextRedactor\obj\Debug\TextRedactor.csproj.CoreCompileInputs.cache
 D:\GitHubRepositories\TextRedactor\TextRedactor\obj\Debug\TextRedactor.exe
 D:\GitHubRepositories\TextRedactor\TextRedactor\obj\Debug\TextRedactor.pdb
 D:\GitHubRepositories\TextRedactor\TextRedactor\obj\Debug\TextRedactor.MainWindow.resources
+D:\GitHubRepositories\TextRedactor\TextRedactor\obj\Debug\TextRedactor.OptionsWindow.resources
+D:\GitHubRepositories\TextRedactor\TextRedactor\obj\Debug\TextRedactor.AboutWindow.resources
