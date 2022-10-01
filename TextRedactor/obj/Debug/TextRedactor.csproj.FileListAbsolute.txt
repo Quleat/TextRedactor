@@ -21,3 +21,15 @@ D:\GitHubRepositories\TextRedactor\TextRedactor\obj\Debug\TextRedactor.pdb
 D:\GitHubRepositories\TextRedactor\TextRedactor\obj\Debug\TextRedactor.MainWindow.resources
 D:\GitHubRepositories\TextRedactor\TextRedactor\obj\Debug\TextRedactor.OptionsWindow.resources
 D:\GitHubRepositories\TextRedactor\TextRedactor\obj\Debug\TextRedactor.AboutWindow.resources
+D:\GitHub\TextRedactor\TextRedactor\bin\Debug\TextRedactor.exe.config
+D:\GitHub\TextRedactor\TextRedactor\bin\Debug\TextRedactor.exe
+D:\GitHub\TextRedactor\TextRedactor\bin\Debug\TextRedactor.pdb
+D:\GitHub\TextRedactor\TextRedactor\obj\Debug\TextRedactor.csprojAssemblyReference.cache
+D:\GitHub\TextRedactor\TextRedactor\obj\Debug\TextRedactor.AboutWindow.resources
+D:\GitHub\TextRedactor\TextRedactor\obj\Debug\TextRedactor.MainWindow.resources
+D:\GitHub\TextRedactor\TextRedactor\obj\Debug\TextRedactor.OptionsWindow.resources
+D:\GitHub\TextRedactor\TextRedactor\obj\Debug\TextRedactor.Properties.Resources.resources
+D:\GitHub\TextRedactor\TextRedactor\obj\Debug\TextRedactor.csproj.GenerateResource.cache
+D:\GitHub\TextRedactor\TextRedactor\obj\Debug\TextRedactor.csproj.CoreCompileInputs.cache
+D:\GitHub\TextRedactor\TextRedactor\obj\Debug\TextRedactor.exe
+D:\GitHub\TextRedactor\TextRedactor\obj\Debug\TextRedactor.pdb
